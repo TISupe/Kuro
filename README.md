@@ -4,15 +4,9 @@
 
 Wake up your pc with Kuro the cat
 
-### history
-
-My own code for replacing [kuro](https://github.com/KartikSindura/kuro) that it seems to be abandoned.
-
 ## Installation
 
-- Download via [the KDE store](https://www.pling.com/p/2135195/)
-- Install it via the splashscreen plugin ("get new ..." button into System Setting > Colors & Themes > Splash Screen)
-- Download the last release and extract it (or clone the repo and copy the `a2n.kuro` folder) and place the folder into `~/.local/share/plasma/look-and-feel/`
+- 'git clone https://github.com/TISupe/Kuro.git ~/.local/share/plasma/look-and-feel/`
 
 ## Code of conduct, license, authors, changelog, contributing
 
