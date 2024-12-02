@@ -1,12 +1,5 @@
 [//]: # (note for me - Linux/Unix Desktops > Desktop Themes > KDE > KDE Plasma > Plasma 6 splashscreen)
 
-<p align="center">
-  <a href="https://www.pling.com/p/2135195/">
-    <img alt="kuro the cat" src="a2n.kuro/contents/splash/images/cat.gif" width="220"/>
-  </a>
-</p>
-<h1 align="center">Kuro <i>- a plasma splashscreen</i></h1>
-
 ## Description
 
 Wake up your pc with Kuro the cat
